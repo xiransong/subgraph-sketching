@@ -1,0 +1,12 @@
+dataset/
+build/
+
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+dist/
+*.egg-info
+
+script_local/
